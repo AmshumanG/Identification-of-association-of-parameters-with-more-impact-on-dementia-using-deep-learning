@@ -1,1 +1,5 @@
-# Identification-of-association-of-parameters-with-more-impact-on-dementia-using-deep-learning
+
+https://www.kaggle.com//syedalinaqvi/augmented-skin-conditions-image-datasetdatasets
+
+
+downlaod the datasets use the above link
